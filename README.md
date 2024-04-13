@@ -1,6 +1,6 @@
 # HDRP Blockout
 
-![](Assets\Images\Preview.gif)
+![](Assets/Images/Preview.gif)
 
 ![](Assets/Images/image.png)
 
